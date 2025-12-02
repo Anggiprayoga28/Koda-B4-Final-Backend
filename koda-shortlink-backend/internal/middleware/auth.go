@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"final-backend/internal/utils"
-	"final-backend/pkg/response"
+	"koda-shortlink-backend/internal/utils"
+	"koda-shortlink-backend/pkg/response"
 	"strings"
 
 	"github.com/gin-gonic/gin"
